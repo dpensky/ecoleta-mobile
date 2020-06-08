@@ -1,3 +1,15 @@
+import React from 'react';
+import { View, StyleSheet } from 'react-native'
+
+const Detail = () => {
+  return (
+    <View />
+  );
+};
+
+export default Detail;
+
+/*
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -31,7 +43,7 @@ const styles = StyleSheet.create({
   address: {
     marginTop: 32,
   },
-  
+
   addressTitle: {
     color: '#322153',
     fontFamily: 'Roboto_500Medium',
@@ -53,7 +65,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between'
   },
-  
+
   button: {
     width: '48%',
     backgroundColor: '#34CB79',
@@ -71,3 +83,4 @@ const styles = StyleSheet.create({
     fontFamily: 'Roboto_500Medium',
   },
 });
+*/
