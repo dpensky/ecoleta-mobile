@@ -14,3 +14,9 @@
 
 # suporte svg
 expo install react-native-svg
+
+## TEST
+- run - npm start
+- wait expo to start
+- open expo on cell phone
+- test
