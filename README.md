@@ -20,3 +20,5 @@ expo install react-native-svg
 - wait expo to start
 - open expo on cell phone
 - test
+
+PAROU NO 1H:24M DO VIDEO
